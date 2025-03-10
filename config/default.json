@@ -1,0 +1,12 @@
+{
+    "postgresConfig": {
+      "host": "localhost",
+      "port": 5432,
+      "username": "your_user",
+      "password": "your_password",
+      "database": "your_db"
+    },
+    "nodeEnv": "development",
+    "postgresSslRejectUnauthorized": false
+  }
+  
